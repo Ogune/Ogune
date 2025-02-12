@@ -1,7 +1,7 @@
 ```javascript
-    currentLearning: ["System Programming", "C", "Assembly"],
-    tools: "vim + tmux",
-    email: "abderrahmanech@outlook.fr"
+currentLearning: ["System Programming", "C", "Assembly"],
+tools: "vim + tmux",
+email: "abderrahmanech@outlook.fr"
 ```
 <!--
 ```asm
