@@ -1,6 +1,6 @@
 ```javascript
 let abdu = {
-    currentLearning: ["iOS Development", "System Programming", "Flutter", "C", "Assembly"],
+    currentLearning: ["System Programming", "C", "Assembly"],
     tools: "vim + tmux",
     email: "abderrahmanech@outlook.fr"
 };
