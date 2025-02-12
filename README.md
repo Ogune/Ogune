@@ -1,7 +1,9 @@
 ```javascript
-currentLearning: ["System Programming", "C", "Assembly"],
-tools: "vim + tmux",
-email: "abderrahmanech@outlook.fr"
+let abdu = {
+    currentLearning: ["System Programming", "C", "Assembly"],
+    tools: "vim + tmux",
+    email: "abderrahmanech@outlook.fr"
+};
 ```
 <!--
 ```asm
