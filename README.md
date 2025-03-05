@@ -1,7 +1,7 @@
 ```typescript          
 let abdu = {
     currentLearning: ["System Programming", "C", "Assembly"],
-    tools: "vim + tmux ❯ Zed IDE"
+    tools: "vim + tmux ❯ Zed IDE",
     email: "abderrahmanech@outlook.fr"
 };
 ```
